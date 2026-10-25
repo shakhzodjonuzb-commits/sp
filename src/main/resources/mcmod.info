@@ -1,0 +1,8 @@
+[{
+  "modid": "seamlessportals",
+  "name": "Seamless Portals",
+  "description": "See-through, seamless same-dimension portals for 1.12.2",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "authorList": ["ilhomvich"]
+}]
